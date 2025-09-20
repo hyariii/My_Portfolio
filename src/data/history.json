@@ -1,0 +1,23 @@
+[
+    {
+        "role": "Social Club Executive Member",
+        "organization": "Sunway Student Representative Council",
+        "startDate": "Feb 19th, 2025",
+        "endDate": "Present",
+        "experience": ["Served as the executive member of Social Club at SSRC", "Collaborated and organized different social events "]
+    },
+    {
+        "role": "Data Fellow",
+        "organization": "DataCamp-SSRC",
+        "startDate": "Jun 13th, 2025",
+        "endDate": "",
+        "experience": ["Apprenticeship as a data fellow", "learned different skills and knowledge about data and AI"]
+    },
+    {
+        "role": "Frontend Developer",
+        "organization": "Sunway Innovation Project Participant",
+        "startDate": "Sept, 2025",
+        "endDate": "Present",
+        "experience": ["Represented Krishipath at innovation project event", "Developed the frontend UI/UX of krishipath"]
+    }
+]

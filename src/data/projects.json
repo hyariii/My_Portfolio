@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Krishipath",
+        "imageSrc": "project/project.png",
+        "description": " Developed an AI-powered Farmer Assistant System that provides crop recommendations, fertilizer suggestions, and soil health analysis based on real-time location soil parameters.",
+        "skills":["Langchain", "Django","Scikit-learn","Javascript"],
+        "source": "https://github.com/krrishpana/Smart-Green-House-IOT.git"
+    },
+
+    {
+        "title": "IoT Based Smart Air Conditioning System",
+        "imageSrc": "project/project.png",
+        "description": "Designed and implemented an IoT-based smart air conditioning system to monitor and regulate classroom temperature for better learning outcomes",
+        "skills":["Tinkercad", "Arduino","IOT"],
+        "source": "https://github.com/hyariii/IOT-based-Smart-Air-Conditioner-in-Classrooms"
+    },
+    {
+        "title": "CRUD based Hospital Management System",
+        "imageSrc": "project/project.png",
+        "description": " Built a Hospital Management System enabling efficient CRUD operations for managing patient records, doctor profiles, and appointments.",
+        "skills":["Python", "Matplotlib", "Tikinter"],
+        "source": "https://github.com/hyariii/Hospital-Management-System-CRUD"
+    },
+
+    {
+        "title": "Visit Nepal Website",
+        "imageSrc": "project/project.png",
+        "description": "Built a travel-focused web platform, using user-centered design principles, and responsive frontend enhancing usability and engagement.",
+        "skills":["HTML", "CSS","Javascript", "Figma"],
+        "source": "https://github.com/krrishpana/Sample-Bakery-Website-Development-Project-.git"
+    }
+
+
+
+]

@@ -1,0 +1,22 @@
+
+:root {
+    /* Colours */
+    --color-text:#ffffff;
+    --color-primary: #4b4d55;
+    --color-secondary: #2E2F34;
+    --color-dark: #2c3138;
+    --color-bg: #2E2F34;
+
+
+
+  /* New Color Palette */
+
+  /* New Fonts */
+  --font-roboto: 'Roboto', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+
+
+    /* fonts */
+    --font-robot: "Roboto";
+
+}

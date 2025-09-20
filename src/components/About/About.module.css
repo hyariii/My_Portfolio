@@ -1,0 +1,124 @@
+@import "../../vars.css";
+
+/* Main container */
+.container {
+    padding: 80px 10%;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: var(--font-roboto);
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+/* Main content layout */
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+}
+
+.aboutHero {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 80px;
+    width: 100%;
+}
+
+.aboutImage {
+    width: 40%;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.aboutImage:hover {
+    transform: scale(1.02);
+}
+
+/* Item cards section */
+.aboutItems {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+.aboutItem {
+    display: flex;
+    align-items: flex-start;
+    gap: 25px;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: var(--color-dark-card);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.aboutItem:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.aboutImg {
+    height: 60px;
+    width: 60px;
+    object-fit: contain;
+    filter: drop-shadow(0 0 5px var(--color-primary));
+}
+
+.aboutItemText {
+    flex: 1;
+}
+
+.aboutItemText h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 5px;
+}
+
+.aboutItemText p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-text);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 830px) {
+    .container {
+        padding: 50px 5%;
+    }
+
+    .title {
+        font-size: 36px;
+        margin-bottom: 40px;
+    }
+
+    .aboutHero {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .aboutImage {
+        width: 80%;
+    }
+
+    .aboutItems {
+        gap: 30px;
+    }
+
+    .aboutItem {
+        padding: 20px;
+    }
+}

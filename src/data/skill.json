@@ -1,0 +1,52 @@
+[
+    {
+    "title": "Python",
+    "imageSrc": "python.png"
+    },
+
+    {
+    "title": "tensorflow",
+    "imageSrc": "tensorflow.png"
+    },
+
+        {
+    "title": "sklearn",
+    "imageSrc": "sklearn.png"
+    },
+
+    {
+    "title":"Git",
+    "imageSrc": "git.png"
+    },
+    {
+    "title":"Matplotlib",
+    "imageSrc": "matplotlib.png"
+    },
+
+    {
+    "title": "HTML",
+    "imageSrc": "html.png"
+    },
+
+    {
+    "title": "CSS",
+    "imageSrc": "css.png"
+    },
+
+    {
+    "title": "JavaScript",
+    "imageSrc":"java-script.png"
+    },
+
+    {
+    "title": "Figma",
+    "imageSrc": "figma.png"
+    },
+
+    {
+    "title":"React",
+    "imageSrc": "react.png"
+    }
+
+
+]
